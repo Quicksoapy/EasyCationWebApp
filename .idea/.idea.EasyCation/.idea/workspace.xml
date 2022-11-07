@@ -5,24 +5,20 @@
     <projectFile profileName="IIS Express">EasyCation/EasyCation.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c94354fa-06be-4660-8e92-8f66859723a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/maths.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/maths.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/reading.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/reading.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/writing.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/writing.cshtml.cs" afterDir="false" />
+    <list default="true" id="c94354fa-06be-4660-8e92-8f66859723a6" name="Changes" comment="added login-register">
+      <change afterPath="$PROJECT_DIR$/EasyCation/Models/Account.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyCation/Models/AppDbContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyCation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyCation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/EasyCation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/EasyCation.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/ref/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/ref/EasyCation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/ref/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/ref/EasyCation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/EasyCation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/EasyCation.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/EasyCation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/EasyCation.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyCation/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/maya/Downloads/Core_HelloWorld.sln",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/maya/Downloads/Core_HelloWorld.sln&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.EasyCation">
     <configuration name="EasyCation" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/EasyCation/EasyCation.csproj" />
@@ -94,7 +90,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667808231868</updated>
-      <workItem from="1667808236985" duration="2949000" />
+      <workItem from="1667808236985" duration="4461000" />
+      <workItem from="1667813063032" duration="1730000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1667808871781</created>
@@ -103,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667808871781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added login-register">
+      <created>1667811312074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667811312074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added login-register" />
+    <option name="LAST_COMMIT_MESSAGE" value="added login-register" />
   </component>
 </project>
