@@ -23,12 +23,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/maya/RiderProjects/EasyCation/EasyCation/Pages/maths.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbWF0aHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/maya/RiderProjects/EasyCation/EasyCation/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/maya/RiderProjects/EasyCation/EasyCation/Pages/reading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvcmVhZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/maya/RiderProjects/EasyCation/EasyCation/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/maya/RiderProjects/EasyCation/EasyCation/Pages/writing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvd3JpdGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/maya/RiderProjects/EasyCation/EasyCation/Pages/_ViewImports.cshtml]

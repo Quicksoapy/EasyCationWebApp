@@ -5,7 +5,26 @@
     <projectFile profileName="IIS Express">EasyCation/EasyCation.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c94354fa-06be-4660-8e92-8f66859723a6" name="Changes" comment="" />
+    <list default="true" id="c94354fa-06be-4660-8e92-8f66859723a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/maths.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/maths.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/reading.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/reading.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/writing.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyCation/Pages/writing.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyCation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyCation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/Pages/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/EasyCation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/ref/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/bin/Debug/net6.0/ref/EasyCation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/EasyCation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/ref/EasyCation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/Debug/net6.0/ref/EasyCation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyCation/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/EasyCation/obj/staticwebassets.pack.sentinel" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +34,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HD8KhmxALqbAxwaYja3fqTh8Cq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +44,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/maya/Downloads/Core_HelloWorld.sln",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.EasyCation">
@@ -67,15 +94,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667808231868</updated>
-      <workItem from="1667808236985" duration="540000" />
+      <workItem from="1667808236985" duration="2949000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1667808871781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667808871781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
